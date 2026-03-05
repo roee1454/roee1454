@@ -1,16 +1,16 @@
-## Hi there 👋
+# Roee Heily
 
-<!--
-**roee1454/roee1454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building clean, scalable web applications — from UI to infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+**Frontend** — React / Angular  
+**Backend** — Nest.js, BullMQ  
+**Database** — PostgreSQL  
+**Infra** — Docker, Railway
+
+### Contact
+
+[Portfolio](https://heily.vercel.app) · [Linkedin](https://www.linkedin.com/in/roee-heily-5176872a6) · [roee1454@gmail.com](mailto:roee1454@gmail.com)
