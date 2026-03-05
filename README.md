@@ -46,7 +46,7 @@ Softare Engineer who picks the right tool for the job — from UI to infrastruct
 
 ### Fun Fact
 
-There's something about the early morning that just works for me — a quick run, a clear head, and suddenly the hard problems don't feel so hard anymore.
+I am an early riser! Something about the early morning that just works for me — a quick run, a clear head, and suddenly the hard problems don't feel so hard anymore.
 
 ---
 
