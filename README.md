@@ -40,6 +40,7 @@ Softare Engineer who picks the right tool for the job — from UI to infrastruct
 
 **Infra**
 
+![Linux](https://img.shields.io/badge/Linux-0B0D0E?style=flat&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=redis&logoColor=white)
