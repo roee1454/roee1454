@@ -4,7 +4,7 @@ Softare Engineer who picks the right tool for the job — from UI to infrastruct
 
 ---
 
-### Technologies
+### Skills
 
 **Languages**
 
@@ -29,23 +29,6 @@ Softare Engineer who picks the right tool for the job — from UI to infrastruct
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-
-**Infra**
-
-![Linux](https://img.shields.io/badge/Linux-0B0D0E?style=flat&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=redis&logoColor=white)
-
----
 
 ### Fun Fact
 
