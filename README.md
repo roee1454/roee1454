@@ -1,6 +1,6 @@
 # Roee Heily
 
-Softare Engineer who picks the right tool for the job — from UI to infrastructure.
+Software Engineer who picks the right tool for the job — from UI to infrastructure.
 
 ---
 
