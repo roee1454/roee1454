@@ -1,7 +1,7 @@
 # Roee Heily
 
 Software Engineer who picks the right tool for the job — from UI to infrastructure.
-@[main2.jpg]
+![Handsome Me!](./main2.jpg)
 ---
 
 ### Skills
